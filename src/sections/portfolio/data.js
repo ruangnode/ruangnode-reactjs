@@ -1,0 +1,65 @@
+import Image1 from '../../assets/project1.jpg';
+import Image2 from '../../assets/project2.png';
+import Image3 from '../../assets/project3.jpg';
+import Image4 from '../../assets/project4.jpg';
+import Image5 from '../../assets/project5.jpg';
+import Image6 from '../../assets/project6.jpg';
+
+const data = [
+  {
+    id: 1,
+    category: 'Testnet',
+    image: Image1,
+    title: 'Taiko',
+    // desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!',
+    demo: 'http://docs.ruangnode.com/',
+    github: 'https://github.com/eruangnode',
+  },
+  {
+    id: 2,
+    category: 'Testnet',
+    image: Image2,
+    title: 'Wormholes',
+    // desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!',
+    demo: 'http://docs.ruangnode.com/',
+    github: 'https://github.com/ruangnode',
+  },
+  {
+    id: 3,
+    category: 'Testnet',
+    image: Image3,
+    title: 'Credit Coin',
+    // desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!',
+    demo: 'http://docs.ruangnode.com/',
+    github: 'https://github.com/ruangnode',
+  },
+  {
+    id: 4,
+    category: 'Ongoing',
+    image: Image4,
+    title: 'Swisstronik',
+    // desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!',
+    demo: 'http://docs.ruangnode.com/',
+    github: 'https://github.com/ruangnode',
+  },
+  {
+    id: 5,
+    category: 'Ongoing',
+    image: Image5,
+    title: 'Covalent',
+    // desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ',
+    demo: 'http://docs.ruangnode.com/',
+    github: 'https://github.com/ruangnode',
+  },
+  {
+    id: 6,
+    category: 'Testnet',
+    image: Image6,
+    title: 'Opside',
+    // desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ',
+    demo: 'http://docs.ruangnode.com/',
+    github: 'https://github.com/ruangnode',
+  },
+];
+
+export default data;
