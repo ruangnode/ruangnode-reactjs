@@ -12,14 +12,15 @@ import { Pagination } from 'swiper';
 import testimonials from './data';
 import Testimonial from './Testimonial';
 import './testimonials.css';
+
 const Testimonials = () => {
   return (
     <section id="testimonials">
-      <h2>Blog</h2>
-      {/* <p>Insentive program</p> */}
+      <h2>Blog & News</h2>
+      <p>These are unbiased details from some of my testnet participant</p>
       <div className="container">
         <Swiper
-          slidesPerView={3}
+          slidesPerView={1}
           spaceBetween={30}
           breakpoints={{
             601: { slidesPerView: 2 },

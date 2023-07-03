@@ -9,7 +9,7 @@ const data = [
   {
     id: 1,
     quote:
-      'To participate in the alpha-3 testnet, please visit https://taiko.xyz/docs and follow the instructions. You can use Taiko as a normal user (e.g. test our bridge and swap features), build dapps, run a node and become block proposer, or block prover. Everyone is invited in a permissionless way! ',
+      "To participate in the alpha-3 testnet,' 'please visit https://taiko.xyz/docs and follow the instructions.' 'You can use Taiko as a normal user (e.g. test our bridge and swap features),' 'build dapps, run a node and become block proposer, or block prover. Everyone is invited in a permissionless way!",
     avatar: Avatar1,
     name: 'Taiko',
     profession: 'Insentive Program',
@@ -47,7 +47,7 @@ const data = [
   },
   {
     id: 6,
-    quote: '📢 Round II of Opsides #PoW #Miner Faucet Whitelist is officially live! 👷🏼 Calling all seasoned miners - seize this opportunity to unlock unprecedented potential in the Opside network. ',
+    quote: '📢 Round II of Opsides #PoW #Miner Faucet Whitelist is officially live! 👷🏼 Calling all seasoned miners - seize this opportunity to unlock unprecedented potential in the Opside network.',
     avatar: Avatar6,
     name: 'Opside',
     profession: 'Insentive Program',
