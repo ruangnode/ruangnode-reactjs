@@ -16,8 +16,8 @@ import './testimonials.css';
 const Testimonials = () => {
   return (
     <section id="testimonials">
-      <h2>Blog & News</h2>
-      <p>These are unbiased details from some of my testnet participant</p>
+      <h2>Status</h2>
+      <p>This is news regarding mainnet, testnet and ongoing status.</p>
       <div className="container">
         <Swiper
           slidesPerView={1}

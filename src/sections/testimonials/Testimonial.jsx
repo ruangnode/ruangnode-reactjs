@@ -10,7 +10,7 @@ const Testimonial = ({ testimonial }) => {
         </div>
         <div className="testimonial__client-details">
           <h6>{testimonial.name}</h6>
-          <small>{testimonial.profession}</small>
+          <small>{testimonial.status}</small>
         </div>
       </div>
     </Card>

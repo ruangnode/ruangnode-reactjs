@@ -68,8 +68,12 @@
 /* MEDIA QUERIES (tablets) */
 @media screen and (max-width: 1024px) {
   .portfolio__projects {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 2fr 2fr;
     gap: 2rem;
+  }
+  .portfolio__project-image {
+    grid-template-columns: 2fr;
+    gap: 1.5rem;
   }
 }
 
@@ -84,7 +88,11 @@
   }
 
   .portfolio__projects {
-    grid-template-columns: 1fr;
+    grid-template-columns: 2fr;
+    gap: 1.5rem;
+  }
+  .portfolio__project-image {
+    grid-template-columns: 2fr;
     gap: 1.5rem;
   }
 }

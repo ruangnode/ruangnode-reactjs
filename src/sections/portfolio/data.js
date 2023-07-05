@@ -4,7 +4,6 @@ import Image3 from '../../assets/project3.jpg';
 import Image4 from '../../assets/project4.jpg';
 import Image5 from '../../assets/project5.jpg';
 import Image6 from '../../assets/project6.jpg';
-// import Image7 from '../../assets/project6.jpg';
 
 const data = [
   // Mainnet data start
@@ -50,7 +49,7 @@ const data = [
   },
   {
     id: 5,
-    category: 'Testnet',
+    category: 'Soon',
     image: Image5,
     title: 'Covalent',
     // desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ',
