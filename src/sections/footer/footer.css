@@ -34,10 +34,3 @@ footer .nav__menu {
   border-top: 2px solid rgba(0, 0, 0, 0.2);
   padding: 1.5rem 0;
 }
-
-/* MEDIA QUERIES (phones) */
-@media screen and (max-width: 600px) {
-  .footer__socials {
-    gap: 0.5rem;
-  }
-}

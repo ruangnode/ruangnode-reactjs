@@ -1,6 +1,6 @@
 import AboutImage from '../../assets/logo.png';
-import CV from '../../assets/cv.pdf';
-import { HiDownload } from 'react-icons/hi';
+// import CV from '../../assets/cv.pdf';
+// import { HiDownload } from 'react-icons/hi';
 import data from './data';
 import Card from '../../components/Card';
 import './about.css';
@@ -15,7 +15,7 @@ const About = () => {
           </div>
         </div>
         <div className="about__right">
-          <h2>About Me</h2>
+          <h3>Why RuangNode ? </h3>
           <div className="about__cards">
             {data.map((item) => (
               <Card key={item.id} className="about__card">
@@ -25,7 +25,11 @@ const About = () => {
               </Card>
             ))}
           </div>
-          <p>Trusted Validator & Interchain Utility Provider With few simple steps you can delegate funds to our trusted validators or explore our services where you can find tools that will be useful for node operators and developers.</p>
+          <h4>RuangNode</h4>
+          <small>
+            is an experienced POS validator and staking provider, contributing to Cosmos Ecosystem open-source projects, and offering valuable data analytics, scripting tools & services that have earned recognition from prominent crypto
+            projects.
+          </small>
           {/* <a href={CV} download className="btn primary">
             Download CV <HiDownload />
           </a> */}
