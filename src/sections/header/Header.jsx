@@ -25,7 +25,7 @@ const Header = () => {
             Let's Talk
           </a>
           <a href="#portfolio" className="btn light">
-            My Work
+            Stake with us
           </a>
         </div>
         <div className="header__socials">
