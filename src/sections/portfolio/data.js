@@ -4,8 +4,14 @@ import Image3 from '../../assets/project3.jpg';
 import Image4 from '../../assets/project4.jpg';
 import Image5 from '../../assets/project5.jpg';
 import Image6 from '../../assets/project6.jpg';
+// import Image7 from '../../assets/project6.jpg';
 
 const data = [
+  // Mainnet data start
+
+  // Mainnet data end
+
+  // Testnet data Start
   {
     id: 1,
     category: 'Testnet',
@@ -35,7 +41,7 @@ const data = [
   },
   {
     id: 4,
-    category: 'Ongoing',
+    category: 'Testnet',
     image: Image4,
     title: 'Swisstronik',
     // desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!',
@@ -44,7 +50,7 @@ const data = [
   },
   {
     id: 5,
-    category: 'Ongoing',
+    category: 'Testnet',
     image: Image5,
     title: 'Covalent',
     // desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ',
@@ -60,6 +66,10 @@ const data = [
     demo: 'http://docs.ruangnode.com/',
     github: 'https://github.com/ruangnode',
   },
+  // Testnet data end
+
+  // Ongoing data start
+  // ongoing data end
 ];
 
 export default data;
