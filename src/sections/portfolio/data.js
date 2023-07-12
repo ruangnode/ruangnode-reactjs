@@ -49,11 +49,11 @@ const data = [
   },
   {
     id: 5,
-    category: 'Soon',
+    category: 'Testnet',
     image: Image5,
     title: 'Covalent',
     // desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ',
-    demo: 'http://docs.ruangnode.com/',
+    demo: 'https://docs.ruangnode.com/testnet/covalent',
     github: 'https://github.com/ruangnode',
   },
   {
