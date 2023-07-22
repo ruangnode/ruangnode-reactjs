@@ -31,7 +31,7 @@ const data = [
   },
   {
     id: 3,
-    category: 'Testnet',
+    category: 'Archive',
     image: Image3,
     title: 'Credit Coin',
     // desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!',

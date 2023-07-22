@@ -22,7 +22,7 @@ const data = [
   },
   {
     id: 3,
-    quote: '🟢 Testnet is live',
+    quote: '🔴 Testnet is over',
     avatar: Avatar3,
     name: 'Credit Coin',
     status: 'Insentive Program',
