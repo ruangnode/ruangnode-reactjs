@@ -36,7 +36,7 @@ const data = [
   },
   {
     id: 5,
-    quote: '🔴 Testnet is over',
+    quote: '🟡 Prepare Mainnet',
     avatar: Avatar5,
     name: 'Covalent',
     status: 'Insentive Program',

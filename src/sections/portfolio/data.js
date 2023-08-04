@@ -49,7 +49,7 @@ const data = [
   },
   {
     id: 5,
-    category: 'Archive',
+    category: 'Mainnet',
     image: Image5,
     title: 'Covalent',
     // desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ',
