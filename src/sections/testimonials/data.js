@@ -39,7 +39,7 @@ const data = [
     quote: '🟢 Mainnet is live',
     avatar: Avatar5,
     name: 'Covalent',
-    status: 'Insentive Program',
+    status: 'Mainnet',
   },
   {
     id: 6,
