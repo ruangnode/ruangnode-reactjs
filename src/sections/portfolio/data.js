@@ -5,7 +5,7 @@ import Image4 from '../../assets/project4.jpg';
 import Image5 from '../../assets/project5.jpg';
 import Image6 from '../../assets/project6.jpg';
 import Image7 from '../../assets/project7.jpg';
-
+import Image8 from '../../assets/project8.png';
 const data = [
   // Mainnet data start
 
@@ -67,6 +67,15 @@ const data = [
     explorer: 'https://pre-alpha-beacon.opside.info/validator/82026f6e84fcabe95909a6b5cdb25967af33ce62dc258e97a1d3b9ac54d15a2e1143faf6269056b03d127c7b440ad213#charts',
   },
   {
+    id: 2.5,
+    category: 'Testnet',
+    image: Image8,
+    title: 'Avail Project',
+    // desc: 'Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ',
+    health: 'https://health.ruangnode.com/status/avail-project',
+    explorer: 'https://kate.avail.tools/#/staking',
+  },
+  {
     id: 3.1,
     category: 'Archive',
     image: Image3,
@@ -75,6 +84,7 @@ const data = [
     health: 'http://docs.ruangnode.com/',
     explorer: 'https://github.com/ruangnode',
   },
+
   // Testnet data end
 
   // Ongoing data start
