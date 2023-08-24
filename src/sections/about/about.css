@@ -7,8 +7,14 @@
 .about__portrait {
   height: fit-content;
   max-height: 40rem;
-  border: 1rem solid var(--color-white);
+  border-radius: 50%; /* Make the border circular */
+  overflow: hidden; /* Ensure the image doesn't overflow the circular border */
+  border: 1rem solid var(--color-primary);
   transition: var(--transition);
+}
+
+.about__portrait:hover {
+  border-width: 0; /* Remove border on hover */
 }
 
 .about__portrait:hover {
