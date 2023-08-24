@@ -42,12 +42,22 @@
 
 .portfolio__project-image {
   width: 50%;
-  justify-content: center;
   height: fit-content;
   min-height: 7rem;
   max-height: 15rem;
+  margin: 0 auto; /* Centers the element horizontally */
+  display: flex;
+  justify-content: center;
   align-items: center;
   margin-bottom: 1.5rem;
+  border-radius: 50%; /* Make the element circular */
+  overflow: hidden; /* Hide any overflowing content outside the circle */
+}
+
+.portfolio__project-image img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 .portfolio__project p {
