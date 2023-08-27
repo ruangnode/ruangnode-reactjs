@@ -6,6 +6,7 @@ import Image5 from '../../assets/project5.jpg';
 import Image6 from '../../assets/project6.jpg';
 import Image7 from '../../assets/project7.jpg';
 import Image8 from '../../assets/project8.png';
+import Image9 from '../../assets/project9.jpg';
 const data = [
   // Mainnet data start
 
@@ -36,8 +37,8 @@ const data = [
     image: Image1,
     title: 'Taiko',
     total: '',
-    health: 'http://docs.ruangnode.com/',
-    explorer: 'https://github.com/eruangnode',
+    health: '',
+    explorer: '',
   },
   {
     id: 2.2,
@@ -54,8 +55,8 @@ const data = [
     image: Image4,
     title: 'Swisstronik',
     total: '',
-    health: 'http://docs.ruangnode.com/',
-    explorer: 'https://github.com/ruangnode',
+    health: '',
+    explorer: '',
   },
   {
     id: 2.4,
@@ -63,7 +64,7 @@ const data = [
     image: Image6,
     title: 'Opside',
     total: '',
-    health: 'http://docs.ruangnode.com/',
+    health: '',
     explorer: 'https://pre-alpha-beacon.opside.info/validator/82026f6e84fcabe95909a6b5cdb25967af33ce62dc258e97a1d3b9ac54d15a2e1143faf6269056b03d127c7b440ad213#charts',
   },
   {
@@ -81,8 +82,17 @@ const data = [
     image: Image3,
     title: 'Credit Coin',
     total: '',
-    health: 'http://docs.ruangnode.com/',
-    explorer: 'https://github.com/ruangnode',
+    health: '',
+    explorer: '',
+  },
+  {
+    id: 2.7,
+    category: 'Testnet',
+    image: Image9,
+    title: 'Muon',
+    total: '',
+    health: '',
+    explorer: '',
   },
 
   // Testnet data end
