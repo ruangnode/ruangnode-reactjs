@@ -45,7 +45,7 @@ const data = [
     image: Image2,
     title: 'Erbie',
     total: '',
-    health: 'http://docs.ruangnode.com/',
+    health: 'https://health.ruangnode.com/status/erbie',
     explorer: 'https://www.erbiescan.io/AccountDetail',
   },
   {
