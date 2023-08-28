@@ -89,7 +89,7 @@ const data = [
     id: 2.7,
     category: 'Testnet',
     image: Image9,
-    title: 'Muon',
+    title: 'Muon Network',
     total: '',
     health: '',
     explorer: '',

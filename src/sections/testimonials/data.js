@@ -6,6 +6,7 @@ import Avatar5 from '../../assets/project5.jpg';
 import Avatar6 from '../../assets/project6.jpg';
 import Avatar7 from '../../assets/project7.jpg';
 import Avatar8 from '../../assets/project8.png';
+import Avatar9 from '../../assets/project9.jpg';
 
 const data = [
   {
@@ -62,6 +63,13 @@ const data = [
     quote: '🟢 Testnet is live',
     avatar: Avatar8,
     name: 'Avail Project',
+    status: 'Insentive Program',
+  },
+  {
+    id: 9,
+    quote: '🟢 Testnet is live',
+    avatar: Avatar9,
+    name: 'Muon Network',
     status: 'Insentive Program',
   },
 ];
