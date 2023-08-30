@@ -7,6 +7,7 @@ import Image6 from '../../assets/project6.jpg';
 import Image7 from '../../assets/project7.jpg';
 import Image8 from '../../assets/project8.png';
 import Image9 from '../../assets/project9.jpg';
+import Image10 from '../../assets/project10.png';
 const data = [
   // Mainnet data start
 
@@ -30,6 +31,7 @@ const data = [
     total: '',
     health: 'https://health.ruangnode.com/status/band-protocol',
     explorer: 'https://www.cosmoscan.io/validator/bandvaloper1h8rpvkrpcv8pvycjf7dpqmnpljse93msnqdsfl#reports',
+    latest: '',
   },
   {
     id: 2.1,
@@ -93,6 +95,15 @@ const data = [
     total: '',
     health: '',
     explorer: '',
+  },
+  {
+    id: 2.8,
+    category: 'Testnet',
+    image: Image10,
+    title: 'Q blockchain',
+    total: '1000 $Q',
+    health: '',
+    explorer: 'https://hq.q.org/staking/delegations',
   },
 
   // Testnet data end
