@@ -80,6 +80,13 @@ const data = [
     name: 'Q blockchain',
     status: 'Insentive Program',
   },
+  {
+    id: 11,
+    quote: '🟡 Testnet soon',
+    avatar: Avatar10,
+    name: 'Powerloom Protocol',
+    status: 'Insentive Program wave-1 only 100 selected',
+  },
 ];
 
 export default data;

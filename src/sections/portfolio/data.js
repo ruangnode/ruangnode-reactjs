@@ -8,6 +8,7 @@ import Image7 from '../../assets/project7.jpg';
 import Image8 from '../../assets/project8.png';
 import Image9 from '../../assets/project9.jpg';
 import Image10 from '../../assets/project10.png';
+import Image11 from '../../assets/project11.png';
 const data = [
   // Mainnet data start
 
@@ -104,6 +105,15 @@ const data = [
     total: '1000 $Q',
     health: '',
     explorer: 'https://hq.q.org/staking/delegations',
+  },
+  {
+    id: 2.9,
+    category: 'Testnet',
+    image: Image11,
+    title: 'Powerloom Protocol',
+    total: '',
+    health: '',
+    explorer: '',
   },
 
   // Testnet data end
