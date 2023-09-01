@@ -35,6 +35,15 @@ const data = [
     latest: '',
   },
   {
+    id: 1.3,
+    category: 'Mainnet',
+    image: Image3,
+    title: 'Credit Coin',
+    total: '1000 $CTC',
+    health: '',
+    explorer: 'https://staking.creditcoin.org/#/validators',
+  },
+  {
     id: 2.1,
     category: 'Testnet',
     image: Image1,
@@ -78,15 +87,6 @@ const data = [
     total: '',
     health: 'https://health.ruangnode.com/status/avail-project',
     explorer: 'https://kate.avail.tools/#/staking',
-  },
-  {
-    id: 2.6,
-    category: 'Testnet',
-    image: Image3,
-    title: 'Credit Coin',
-    total: '',
-    health: '',
-    explorer: '',
   },
   {
     id: 2.7,

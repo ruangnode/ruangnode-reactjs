@@ -26,10 +26,10 @@ const data = [
   },
   {
     id: 3,
-    quote: '🔴 Testnet is over',
+    quote: '🟢 Mainnet is live',
     avatar: Avatar3,
     name: 'Credit Coin',
-    status: 'Insentive Program',
+    status: 'Mainnet',
   },
   {
     id: 4,
