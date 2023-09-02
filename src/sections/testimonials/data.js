@@ -8,6 +8,7 @@ import Avatar7 from '../../assets/project7.jpg';
 import Avatar8 from '../../assets/project8.png';
 import Avatar9 from '../../assets/project9.jpg';
 import Avatar10 from '../../assets/project10.png';
+import Avatar10 from '../../assets/project11.png';
 
 const data = [
   {
@@ -83,7 +84,7 @@ const data = [
   {
     id: 11,
     quote: '🟡 Testnet soon',
-    avatar: Avatar10,
+    avatar: Avatar11,
     name: 'Powerloom Protocol',
     status: 'Insentive Program wave-1 only 100 selected',
   },
