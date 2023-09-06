@@ -83,7 +83,7 @@ const data = [
   },
   {
     id: 11,
-    quote: '🟡 Testnet soon',
+    quote: '🟢 Testnet is live',
     avatar: Avatar11,
     name: 'Powerloom Protocol',
     status: 'Insentive Program wave-1 only 100 selected',
