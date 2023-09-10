@@ -9,6 +9,7 @@ import Image8 from '../../assets/project8.png';
 import Image9 from '../../assets/project9.jpg';
 import Image10 from '../../assets/project10.png';
 import Image11 from '../../assets/project11.png';
+import Image12 from '../../assets/project12.png';
 const data = [
   // Mainnet data start
 
@@ -39,7 +40,7 @@ const data = [
     category: 'Mainnet',
     image: Image3,
     title: 'Credit Coin',
-    total: '1000 $CTC',
+    total: '2400 $CTC',
     health: '',
     explorer: 'https://staking.creditcoin.org/#/validators',
   },
@@ -113,6 +114,15 @@ const data = [
     title: 'Powerloom Protocol',
     total: '',
     health: '',
+    explorer: '',
+  },
+  {
+    id: 3.0,
+    category: 'Testnet',
+    image: Image12,
+    title: 'fleek',
+    total: '',
+    health: 'https://health.ruangnode.com/status/fleek',
     explorer: '',
   },
 

@@ -9,6 +9,7 @@ import Avatar8 from '../../assets/project8.png';
 import Avatar9 from '../../assets/project9.jpg';
 import Avatar10 from '../../assets/project10.png';
 import Avatar11 from '../../assets/project11.png';
+import Avatar12 from '../../assets/project12.png';
 
 const data = [
   {
@@ -87,6 +88,13 @@ const data = [
     avatar: Avatar11,
     name: 'Powerloom Protocol',
     status: 'Insentive Program wave-1 only 100 selected',
+  },
+  {
+    id: 12,
+    quote: '🟢 Testnet is live',
+    avatar: Avatar12,
+    name: 'Fleek',
+    status: 'Testnet Program',
   },
 ];
 
