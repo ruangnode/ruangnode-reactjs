@@ -10,6 +10,9 @@ import Avatar9 from '../../assets/project9.jpg';
 import Avatar10 from '../../assets/project10.png';
 import Avatar11 from '../../assets/project11.png';
 import Avatar12 from '../../assets/project12.png';
+import Avatar13 from '../../assets/project13.jpg';
+import Avatar14 from '../../assets/project14.jpg';
+import Avatar15 from '../../assets/project15.jpg';
 
 const data = [
   {
@@ -93,7 +96,28 @@ const data = [
     id: 12,
     quote: '🟢 Testnet is live',
     avatar: Avatar12,
-    name: 'Fleek',
+    name: 'Selfchain',
+    status: 'Testnet Program',
+  },
+  {
+    id: 13,
+    quote: '🟢 Testnet is live',
+    avatar: Avatar13,
+    name: 'Arkeo Network',
+    status: 'Testnet Program',
+  },
+  {
+    id: 14,
+    quote: '🟢 Testnet is live',
+    avatar: Avatar14,
+    name: 'Ar.io Network',
+    status: 'Testnet Program',
+  },
+  {
+    id: 15,
+    quote: '🟢 Testnet is live',
+    avatar: Avatar15,
+    name: 'Subspace',
     status: 'Testnet Program',
   },
 ];

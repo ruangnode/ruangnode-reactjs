@@ -10,6 +10,10 @@ import Image9 from '../../assets/project9.jpg';
 import Image10 from '../../assets/project10.png';
 import Image11 from '../../assets/project11.png';
 import Image12 from '../../assets/project12.png';
+import Image13 from '../../assets/project13.jpg';
+import Image14 from '../../assets/project14.jpg';
+import Image15 from '../../assets/project15.jpg';
+import Image16 from '../../assets/project16.jpg';
 const data = [
   // Mainnet data start
 
@@ -124,6 +128,42 @@ const data = [
     total: '',
     health: 'https://health.ruangnode.com/status/fleek',
     explorer: '',
+  },
+  {
+    id: 3.1,
+    category: 'Testnet',
+    image: Image13,
+    title: 'Selfchain',
+    total: '',
+    health: '',
+    explorer: '',
+  },
+  {
+    id: 3.2,
+    category: 'Testnet',
+    image: Image14,
+    title: 'Arkeo Network',
+    total: '',
+    health: '',
+    explorer: 'https://testnet.kynraze.com/arkeo/staking/tarkeovaloper1plc9yuy608j2adgtup463uc0rj5gd0q2h6jrg5',
+  },
+  {
+    id: 3.3,
+    category: 'Testnet',
+    image: Image15,
+    title: 'Ar.io',
+    total: '',
+    health: 'https://ruangnode.xyz/ar-io/healthcheck',
+    explorer: '',
+  },
+  {
+    id: 3.4,
+    category: 'Testnet',
+    image: Image16,
+    title: 'Subspace',
+    total: '',
+    health: '',
+    explorer: 'https://explorer.subspace.network/#/gemini-3f/accounts/st8waTuA3gLqq3PhkeDRoJKmAe9vtWumNhzesfvhFH96SBQu8',
   },
 
   // Testnet data end
