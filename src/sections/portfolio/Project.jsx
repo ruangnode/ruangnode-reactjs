@@ -9,11 +9,11 @@ const Project = ({ project }) => {
       <h4>{project.title}</h4>
       <p>Staked Token : {project.total}</p>
       <div className="portfolio__project-cta">
-        <a href={project.health} className="btn sm" target="_blank" rel="noopner noreferrer">
-          Health Check
+        <a href={project.monit} className="btn sm" target="_blank" rel="noopner noreferrer">
+          Monit
         </a>
-        <a href={project.explorer} className="btn sm primary" target="_blank" rel="noopner noreferrer">
-          Explorer
+        <a href={project.stake} className="btn sm primary" target="_blank" rel="noopner noreferrer">
+          Stake
         </a>
       </div>
     </Card>
