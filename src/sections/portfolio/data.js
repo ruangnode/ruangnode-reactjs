@@ -14,6 +14,8 @@ import Image13 from '../../assets/project13.jpg';
 import Image14 from '../../assets/project14.jpg';
 import Image15 from '../../assets/project15.jpg';
 import Image16 from '../../assets/project16.jpg';
+import Image17 from '../../assets/project17.jpg';
+import Image18 from '../../assets/project18.jpg';
 const data = [
   // Mainnet data start
 
@@ -163,6 +165,24 @@ const data = [
     total: '',
     monit: '',
     stake: 'https://explorer.subspace.network/#/gemini-3f/accounts/st8waTuA3gLqq3PhkeDRoJKmAe9vtWumNhzesfvhFH96SBQu8',
+  },
+  {
+    id: 3.5,
+    category: 'Testnet',
+    image: Image17,
+    title: 'Entangle',
+    total: '',
+    monit: '',
+    stake: 'https://explorer.nodestake.top/entangle-testnet/staking/ethmvaloper1rzzk85h2fkyhzhma7tslvycx076533prqs4uen',
+  },
+  {
+    id: 3.6,
+    category: 'Testnet',
+    image: Image18,
+    title: 'Mantra Chain',
+    total: '',
+    monit: '',
+    stake: 'https://explorer.indonode.net/mantra-testnet/staking/mantravaloper1n2x4xvwmr8zn6r39yw98hq235ktph57dhyhfz3',
   },
 
   // Testnet data end
