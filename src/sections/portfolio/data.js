@@ -16,6 +16,7 @@ import Image15 from '../../assets/project15.jpg';
 import Image16 from '../../assets/project16.jpg';
 import Image17 from '../../assets/project17.jpg';
 import Image18 from '../../assets/project18.jpg';
+
 const data = [
   // Mainnet data start
 
@@ -48,6 +49,15 @@ const data = [
     total: '2400 $CTC',
     monit: '',
     stake: 'https://staking.creditcoin.org/#/validators',
+  },
+  {
+    id: 1.4,
+    category: 'Mainnet',
+    image: Image9,
+    title: 'Pion Network',
+    total: '650 $PION',
+    monit: '',
+    stake: '',
   },
   {
     id: 2.1,
