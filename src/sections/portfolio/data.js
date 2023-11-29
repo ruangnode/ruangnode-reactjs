@@ -16,6 +16,7 @@ import Image15 from '../../assets/project15.jpg';
 import Image16 from '../../assets/project16.jpg';
 import Image17 from '../../assets/project17.jpg';
 import Image18 from '../../assets/project18.jpg';
+import Image19 from '../../assets/project19.jpg';
 
 const data = [
   // Mainnet data start
@@ -29,7 +30,7 @@ const data = [
     image: Image5,
     title: 'Covalent',
     total: '35000 $CQT',
-    monit: 'https://health.ruangnode.com/status/covalent',
+    monit: 'https://monit.ruangnode.com/status/dashboard',
     stake: 'https://www.covalenthq.com/staking/#/',
   },
   {
@@ -38,7 +39,7 @@ const data = [
     image: Image7,
     title: 'Band Protocol',
     total: '',
-    monit: 'https://health.ruangnode.com/status/band-protocol',
+    monit: 'https://monit.ruangnode.com/status/dashboard',
     stake: 'https://restake.app/bandchain/bandvaloper1h8rpvkrpcv8pvycjf7dpqmnpljse93msnqdsfl',
   },
   {
@@ -60,6 +61,15 @@ const data = [
     stake: '',
   },
   {
+    id: 1.5,
+    category: 'Mainnet',
+    image: Image19,
+    title: 'SixSigma',
+    total: '',
+    monit: 'https://monit.ruangnode.com/status/dashboard',
+    stake: 'https://explorer.tcnetwork.io/sge/validator/sgevaloper17cm7q963q6dg6ndv466z4ahfwzs2rsjtzpvxt8',
+  },
+  {
     id: 2.1,
     category: 'Testnet',
     image: Image1,
@@ -74,7 +84,7 @@ const data = [
     image: Image2,
     title: 'Erbie',
     total: '',
-    monit: 'https://health.ruangnode.com/status/erbie',
+    monit: 'https://monit.ruangnode.com/status/dashboard',
     stake: 'https://www.erbiescan.io/AccountDetail',
   },
   {
@@ -146,7 +156,7 @@ const data = [
     image: Image13,
     title: 'Selfchain',
     total: '',
-    monit: '',
+    monit: 'https://monit.ruangnode.com/status/dashboard',
     stake: '',
   },
   {
@@ -155,7 +165,7 @@ const data = [
     image: Image14,
     title: 'Arkeo Network',
     total: '',
-    monit: '',
+    monit: 'https://monit.ruangnode.com/status/dashboard',
     stake: 'https://testnet.kynraze.com/arkeo/staking/tarkeovaloper1plc9yuy608j2adgtup463uc0rj5gd0q2h6jrg5',
   },
   {
@@ -182,7 +192,7 @@ const data = [
     image: Image17,
     title: 'Entangle',
     total: '',
-    monit: '',
+    monit: 'https://monit.ruangnode.com/status/dashboard',
     stake: 'https://explorer.nodestake.top/entangle-testnet/staking/ethmvaloper1rzzk85h2fkyhzhma7tslvycx076533prqs4uen',
   },
   {
@@ -191,7 +201,7 @@ const data = [
     image: Image18,
     title: 'Mantra Chain',
     total: '',
-    monit: '',
+    monit: 'https://monit.ruangnode.com/status/dashboard',
     stake: 'https://explorer.indonode.net/mantra-testnet/staking/mantravaloper1n2x4xvwmr8zn6r39yw98hq235ktph57dhyhfz3',
   },
 
