@@ -1,10 +1,8 @@
 import Image1 from '../../assets/project1.jpg';
 import Image2 from '../../assets/project2.png';
-import Image3 from '../../assets/project3.jpg';
 import Image4 from '../../assets/project4.jpg';
 import Image5 from '../../assets/project5.jpg';
 import Image6 from '../../assets/project6.jpg';
-import Image7 from '../../assets/project7.jpg';
 import Image8 from '../../assets/project8.png';
 import Image9 from '../../assets/project9.jpg';
 import Image10 from '../../assets/project10.png';
@@ -17,6 +15,7 @@ import Image16 from '../../assets/project16.jpg';
 import Image17 from '../../assets/project17.jpg';
 import Image18 from '../../assets/project18.jpg';
 import Image19 from '../../assets/project19.jpg';
+import Image20 from '../../assets/project20.jpg';
 
 const data = [
   // Mainnet data start
@@ -34,24 +33,6 @@ const data = [
     stake: 'https://www.covalenthq.com/staking/#/',
   },
   {
-    id: 1.2,
-    category: 'Mainnet',
-    image: Image7,
-    title: 'Band Protocol',
-    total: '',
-    monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
-    stake: 'https://restake.app/bandchain/bandvaloper1h8rpvkrpcv8pvycjf7dpqmnpljse93msnqdsfl',
-  },
-  {
-    id: 1.3,
-    category: 'Mainnet',
-    image: Image3,
-    title: 'Credit Coin',
-    total: '2400 $CTC',
-    monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
-    stake: 'https://staking.creditcoin.org/#/validators',
-  },
-  {
     id: 1.4,
     category: 'Mainnet',
     image: Image9,
@@ -67,7 +48,7 @@ const data = [
     title: 'SixSigma',
     total: '',
     monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
-    stake: 'https://explorer.tcnetwork.io/sge/validator/sgevaloper17cm7q963q6dg6ndv466z4ahfwzs2rsjtzpvxt8',
+    stake: 'https://restake.app/sge/sgevaloper17cm7q963q6dg6ndv466z4ahfwzs2rsjtzpvxt8',
   },
   {
     id: 2.1,
@@ -157,7 +138,7 @@ const data = [
     title: 'Selfchain',
     total: '',
     monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
-    stake: '',
+    stake: 'https://explorer.ruangnode.com',
   },
   {
     id: 3.2,
@@ -166,7 +147,7 @@ const data = [
     title: 'Arkeo Network',
     total: '',
     monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
-    stake: 'https://testnet.kynraze.com/arkeo/staking/tarkeovaloper1plc9yuy608j2adgtup463uc0rj5gd0q2h6jrg5',
+    stake: 'https://explorer.ruangnode.com',
   },
   {
     id: 3.3,
@@ -184,7 +165,7 @@ const data = [
     title: 'Subspace',
     total: '',
     monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
-    stake: 'https://explorer.subspace.network/#/gemini-3f/accounts/st8waTuA3gLqq3PhkeDRoJKmAe9vtWumNhzesfvhFH96SBQu8',
+    stake: 'https://explorer.ruangnode.com',
   },
   {
     id: 3.5,
@@ -193,7 +174,7 @@ const data = [
     title: 'Entangle',
     total: '',
     monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
-    stake: 'https://explorer.nodestake.top/entangle-testnet/staking/ethmvaloper1rzzk85h2fkyhzhma7tslvycx076533prqs4uen',
+    stake: 'https://explorer.ruangnode.com',
   },
   {
     id: 3.6,
@@ -203,6 +184,24 @@ const data = [
     total: '',
     monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
     stake: 'https://explorer.indonode.net/mantra-testnet/staking/mantravaloper1n2x4xvwmr8zn6r39yw98hq235ktph57dhyhfz3',
+  },
+  {
+    id: 3.7,
+    category: 'Testnet',
+    image: Image19,
+    title: 'Six Sigma Network',
+    total: '',
+    monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
+    stake: 'https://explorer.ruangnode.com',
+  },
+  {
+    id: 3.8,
+    category: 'Testnet',
+    image: Image20,
+    title: 'Crossfi Chains',
+    total: '',
+    monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
+    stake: 'https://explorer.ruangnode.com/crossfi-testnet/staking/mxvaloper1mz6jsd49r490zx86cqscm058w6knytknck4dmt',
   },
 
   // Testnet data end
