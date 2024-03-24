@@ -185,7 +185,7 @@ const data = [
     title: 'Mantra Chain',
     total: '',
     monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
-    stake: 'https://explorer.indonode.net/mantra-testnet/staking/mantravaloper1n2x4xvwmr8zn6r39yw98hq235ktph57dhyhfz3',
+    stake: 'https://explorer.ruangnode.com/mantra-testnet/staking/mantravaloper1fjd9muh0mxq930u29umdhvdhvjsqduaekace92',
   },
   {
     id: 3.7,
