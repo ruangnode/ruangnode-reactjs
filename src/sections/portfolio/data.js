@@ -16,6 +16,8 @@ import Image17 from '../../assets/project17.jpg';
 import Image18 from '../../assets/project18.jpg';
 import Image19 from '../../assets/project19.jpg';
 import Image20 from '../../assets/project20.jpg';
+import Image21 from '../../assets/project21.jpg';
+import Image22 from '../../assets/project22.jpg';
 
 const data = [
   // Mainnet data start
@@ -52,7 +54,7 @@ const data = [
   },
   {
     id: 2.1,
-    category: 'Testnet',
+    category: 'Archive',
     image: Image1,
     title: 'Taiko',
     total: '',
@@ -61,7 +63,7 @@ const data = [
   },
   {
     id: 2.2,
-    category: 'Testnet',
+    category: 'Archive',
     image: Image2,
     title: 'Erbie',
     total: '',
@@ -79,7 +81,7 @@ const data = [
   },
   {
     id: 2.4,
-    category: 'Testnet',
+    category: 'Archive',
     image: Image6,
     title: 'Opside',
     total: '',
@@ -88,7 +90,7 @@ const data = [
   },
   {
     id: 2.5,
-    category: 'Testnet',
+    category: 'Archive',
     image: Image8,
     title: 'Avail Project',
     total: '',
@@ -97,7 +99,7 @@ const data = [
   },
   {
     id: 2.7,
-    category: 'Testnet',
+    category: 'Archive',
     image: Image9,
     title: 'Muon Network',
     total: '',
@@ -106,7 +108,7 @@ const data = [
   },
   {
     id: 2.8,
-    category: 'Testnet',
+    category: 'Archive',
     image: Image10,
     title: 'Q blockchain',
     total: '1000 $Q',
@@ -160,7 +162,7 @@ const data = [
   },
   {
     id: 3.4,
-    category: 'Testnet',
+    category: 'Archive',
     image: Image16,
     title: 'Subspace',
     total: '',
@@ -169,7 +171,7 @@ const data = [
   },
   {
     id: 3.5,
-    category: 'Testnet',
+    category: 'Archive',
     image: Image17,
     title: 'Entangle',
     total: '',
@@ -202,6 +204,24 @@ const data = [
     total: '',
     monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
     stake: 'https://explorer.ruangnode.com/crossfi-testnet/staking/mxvaloper1mz6jsd49r490zx86cqscm058w6knytknck4dmt',
+  },
+  {
+    id: 3.9,
+    category: 'Testnet',
+    image: Image21,
+    title: 'Union',
+    total: '',
+    monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
+    stake: 'https://explorer.ruangnode.com/union-testnet/staking/unionvaloper1jr8kg3ahcaqcuhe26tsm3e76pz36try8w8n43z',
+  },
+  {
+    id: 4.0,
+    category: 'Testnet',
+    image: Image22,
+    title: 'Autonity',
+    total: '',
+    monit: '',
+    stake: 'https://stakeflow.io/autonity-piccadilly/validators/0x0f15366e2d3a29d43dc5e85ec60d13b085372659',
   },
 
   // Testnet data end
