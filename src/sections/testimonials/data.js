@@ -16,7 +16,7 @@ const data = [
     id: 2,
     quote: '🟢 Mainnet is live',
     avatar: Avatar2,
-    name: 'Pion Netork',
+    name: 'Pion Network',
     status: 'Mainnet',
   },
   {

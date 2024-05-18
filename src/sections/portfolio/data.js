@@ -50,7 +50,7 @@ const data = [
     id: 1.5,
     category: 'Mainnet',
     image: Image19,
-    title: 'SixSigma',
+    title: 'SGE Network',
     total: '',
     monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
     stake: 'https://restake.app/sge/sgevaloper17cm7q963q6dg6ndv466z4ahfwzs2rsjtzpvxt8',
@@ -67,7 +67,7 @@ const data = [
   {
     id: 1.7,
     category: 'Mainnet',
-    image: Image23,
+    image: Image17,
     title: 'Entangle',
     total: '',
     monit: 'https://monit.ruangnode.com/status/ruangnode-monit',

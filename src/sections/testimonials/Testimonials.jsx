@@ -17,7 +17,7 @@ const Testimonials = () => {
   return (
     <section id="testimonials">
       <h2>Status</h2>
-      <p>This is news regarding mainnet, testnet and ongoing status.</p>
+      <p>This is news regarding mainnet live.</p>
       <div className="container">
         <Swiper
           slidesPerView={1}
