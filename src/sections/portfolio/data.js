@@ -16,8 +16,11 @@ import Image17 from '../../assets/project17.jpg';
 import Image18 from '../../assets/project18.jpg';
 import Image19 from '../../assets/project19.jpg';
 import Image20 from '../../assets/project20.jpg';
-import Image21 from '../../assets/project21.jpg';
+import Image21 from '../../assets/project21.png';
 import Image22 from '../../assets/project22.jpg';
+import Image23 from '../../assets/project23.jpg';
+import Image24 from '../../assets/project24.png';
+import Image25 from '../../assets/project25.jpg';
 
 const data = [
   // Mainnet data start
@@ -51,6 +54,24 @@ const data = [
     total: '',
     monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
     stake: 'https://restake.app/sge/sgevaloper17cm7q963q6dg6ndv466z4ahfwzs2rsjtzpvxt8',
+  },
+  {
+    id: 1.6,
+    category: 'Mainnet',
+    image: Image20,
+    title: 'Crossfi Finance',
+    total: '',
+    monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
+    stake: 'https://xfiscan.com/validators/mxvaloper1kuc29f5farpq4xt3tegdd4jlnjlsg0cqkdps5t',
+  },
+  {
+    id: 1.7,
+    category: 'Mainnet',
+    image: Image23,
+    title: 'Entangle',
+    total: '',
+    monit: 'https://monit.ruangnode.com/status/ruangnode-monit',
+    stake: 'https://explorer.entangle.fi/validators/entvaloper1e8dl7y46sf69vxgdvpuv8jpmq32walfzhqe7qu',
   },
   {
     id: 2.1,
@@ -126,7 +147,7 @@ const data = [
   },
   {
     id: 3.0,
-    category: 'Testnet',
+    category: 'Archive',
     image: Image12,
     title: 'fleek',
     total: '',
@@ -135,7 +156,7 @@ const data = [
   },
   {
     id: 3.1,
-    category: 'Testnet',
+    category: 'Archive',
     image: Image13,
     title: 'Selfchain',
     total: '',
@@ -144,7 +165,7 @@ const data = [
   },
   {
     id: 3.2,
-    category: 'Testnet',
+    category: 'Archive',
     image: Image14,
     title: 'Arkeo Network',
     total: '',
@@ -189,7 +210,7 @@ const data = [
   },
   {
     id: 3.7,
-    category: 'Testnet',
+    category: 'Archive',
     image: Image19,
     title: 'Six Sigma Network',
     total: '',
@@ -219,6 +240,33 @@ const data = [
     category: 'Testnet',
     image: Image22,
     title: 'Autonity',
+    total: '',
+    monit: '',
+    stake: 'https://stakeflow.io/autonity-piccadilly/validators/0x0f15366e2d3a29d43dc5e85ec60d13b085372659',
+  },
+  {
+    id: 4.1,
+    category: 'Testnet',
+    image: Image23,
+    title: 'Dwallet',
+    total: '',
+    monit: '',
+    stake: 'https://stakeflow.io/autonity-piccadilly/validators/0x0f15366e2d3a29d43dc5e85ec60d13b085372659',
+  },
+  {
+    id: 4.2,
+    category: 'Testnet',
+    image: Image24,
+    title: 'Warden',
+    total: '',
+    monit: '',
+    stake: 'https://stakeflow.io/autonity-piccadilly/validators/0x0f15366e2d3a29d43dc5e85ec60d13b085372659',
+  },
+  {
+    id: 4.3,
+    category: 'Testnet',
+    image: Image25,
+    title: 'Initia',
     total: '',
     monit: '',
     stake: 'https://stakeflow.io/autonity-piccadilly/validators/0x0f15366e2d3a29d43dc5e85ec60d13b085372659',
